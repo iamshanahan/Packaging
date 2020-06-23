@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # Ignore Gradle project-specific cache directory
 .gradle
 
 # Ignore Gradle build output directory
 build
+=======
+/bin/
+>>>>>>> c6c1ec977e4f7f1459d32ead187b0562535f301e
